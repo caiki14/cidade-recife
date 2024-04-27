@@ -1,0 +1,29 @@
+*{
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+}
+body{ 
+    background-color: hsla(203, 100%, 75%, 0.557); 
+    width: 90%; 
+} 
+p{ 
+    text-align: justify; 
+    color: rgb(36, 12, 58); 
+} 
+h1{ 
+    color: rgba(119, 148, 29, 0.699); 
+} 
+ul{ 
+    display: flex; 
+    justify-content: space-between; 
+} 
+li{ 
+    padding: 1rem; 
+    text-decoration: none; 
+} 
+.marco-zero__header{ 
+    display: flex; 
+    justify-content: space-between; 
+    padding: 0 3rem 0 3rem; 
+} 
